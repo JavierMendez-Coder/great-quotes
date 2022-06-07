@@ -63,9 +63,11 @@
 
 [![Product Name Screen Shot][product-screenshot]][project-url]
 
-Project aimed to simulate a Multi-Page Application (MPA) through a Single-Page Application (SPA) using React Router, designed by [Maximilian Schwarzmüller][mschwarzmueller] from [Academind][academind].
+Project aimed to simulate a Multi-Page Application (MPA) through a Single-Page Application (SPA) using React Router.
 
-This project was also deployed with the Firebase Hosting services at this [link][project-url] (this may not be up in the future), and the data was stored in the Firebase Realtime Database.
+In addition, this project was also deployed with the Firebase Hosting services at this [link][project-url] (this may not be up in the future), and the data was stored in the Firebase Realtime Database.
+
+Designed by [Maximilian Schwarzmüller][mschwarzmueller] from [Academind][academind] in his [React - The Complete Guide][course-url] course.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -74,7 +76,7 @@ This project was also deployed with the Firebase Hosting services at this [link]
 ### Built With
 
 * [React.js](https://reactjs.org/)
-* [Firebase](https://reactjs.org/)
+* [Firebase](https://firebase.google.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -159,3 +161,4 @@ Project Link: [https://github.com/JavierMendez-Coder/great-quotes](https://githu
 [project-url]: https://react-http-eb906.web.app
 [mschwarzmueller]: https://github.com/mschwarzmueller
 [academind]: https://github.com/academind
+[course-url]: https://www.udemy.com/course/react-the-complete-guide-incl-redux/
