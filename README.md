@@ -104,6 +104,10 @@ To get a local copy up and running follow these simple steps.
    ```sh
    npm install
    ```
+3. Enter your domain in `.env`
+   ```env
+   REACT_APP_FIREBASE_DOMAIN="ENTER YOUR DOMAIN"
+   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
