@@ -125,7 +125,7 @@ This project allows you to create quotes and comment them.
 <!-- CONTACT -->
 ## Contact
 
-Javier Méndez - javiermendez0299@gmail.com.com
+Javier Méndez - javiermendez0299@gmail.com
 
 Project Link: [https://github.com/JavierMendez-Coder/great-quotes](https://github.com/JavierMendez-Coder/great-quotes)
 
